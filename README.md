@@ -1,7 +1,9 @@
 ## Hi there 👋, I'm Karen Grigorian
 
-Mobile App Developer with over 6 years of experience building high-quality, user-focused applications for iOS and Android using React Native. I began my career as a native iOS developer, gaining 3 years of hands-on experience with Objective-C and Swift, which gives me a strong foundation in platform-specific behaviour, performance, and mobile architecture. Skilled in the full mobile development lifecycle—from design and implementation to testing and maintenance. Strong collaborator with a track record of turning complex business and user needs into robust, scalable mobile solutions.
+Senior Frontend & Mobile Developer with 10+ years of experience building production web and mobile applications using React.js, React Native, and TypeScript. I work with product and engineering teams to design, build, and ship reliable software — from customer-facing features to the architecture that supports them.
 
-I’m comfortable owning features end to end across the full mobile development lifecycle — from initial design and implementation to testing, release, and long-term maintenance. I focus on building scalable, maintainable, and reliable products, and I enjoy translating complex business and user requirements into clean, practical solutions.
+My background spans native iOS (Objective-C/Swift), React Native, and React.js web development, which gives me a cross-platform understanding of component architecture, state management (Redux/Redux Toolkit), and performance optimization that most frontend-only developers don't build up.
 
-I have solid experience working in cross-functional Agile teams, collaborating closely with designers, backend engineers, and product managers. I’m used to sprint-based development, iterative delivery, code reviews, and continuous improvement, and I value clear communication and shared ownership of results.
+I'm comfortable owning features end-to-end — from design and implementation to testing, code review, and long-term maintenance — and turning complex product requirements into clean, practical solutions. I've worked in cross-functional Agile teams, collaborating closely with designers, backend engineers, and product managers, and take code quality seriously as part of that process.
+
+Based in Armenia (GMT+4), with strong working-hours overlap with European and Middle Eastern teams. I communicate clearly and proactively, making remote, distributed collaboration easy.
